@@ -1,2 +1,2 @@
-# algo_trading
+# Algo_trading
 learning algorithmic trading
